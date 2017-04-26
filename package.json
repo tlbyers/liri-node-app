@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "liri homework",
+  "main": "keys.js",
+  "dependencies": {
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlbyers/liri-node-app.git"
+  },
+  "author": "Terri Byers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlbyers/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/tlbyers/liri-node-app#readme"
+}
